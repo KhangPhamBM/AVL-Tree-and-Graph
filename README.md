@@ -30,10 +30,10 @@ Additionally, the Graph part provides several algorithms as:
 - Euler's Algorithm: Finds an Eulerian path or circuit in the graph.
 
 ## Screenshots
-![Login Form](https://github.com/KhangPhamBM/Takeaway-Mangement-System/blob/main/screenshot/Login%20Form.png)
-![Admin Form](https://github.com/KhangPhamBM/Takeaway-Mangement-System/blob/main/screenshot/Admin%20Form.png)
-![Staff Form](https://github.com/KhangPhamBM/Takeaway-Mangement-System/blob/main/screenshot/Staff%20Form.png)
-![Order Success](https://github.com/KhangPhamBM/Takeaway-Mangement-System/blob/main/screenshot/order%20success.png)
+![Main](https://github.com/KhangPhamBM/AVL-Tree-and-Graph/blob/main/Screenshots/Main.png)
+![AVL Tree Printing](https://github.com/KhangPhamBM/AVL-Tree-and-Graph/blob/main/Screenshots/AVL%20Tree%20Printing.png)
+![Graph Printing](https://github.com/KhangPhamBM/AVL-Tree-and-Graph/blob/main/Screenshots/Graph%20Printing.png)
+![Dijkstra and Floyd](https://github.com/KhangPhamBM/AVL-Tree-and-Graph/blob/main/Screenshots/Dijkstra%20and%20Floyd.png)
 
 
 ## Installation
